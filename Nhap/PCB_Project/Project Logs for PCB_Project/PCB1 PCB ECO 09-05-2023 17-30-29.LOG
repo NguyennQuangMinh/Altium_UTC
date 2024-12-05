@@ -1,0 +1,3 @@
+Removed Member From Class: ClassName=Sheet1 Member=U?
+Added Component: Designator=IC?(pic16f877a)
+Added Member To Class: ClassName=Sheet1 Member=Component IC? PIC16F877A

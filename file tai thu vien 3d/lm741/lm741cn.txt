@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"33-10012020-063309";"";
+"REFERENCE";"LM741CN";"";
+"TraceParts.PartTitle";"Integrated Circuit Dual-In-Line Packages - LM741CN, LM741CN/NOPB";"";
+"TraceParts.InstanceId";"33-10012020-0633094F5HIZJ2U65VXA6H27O7STRSV";"";
+"DESIGN";"Integrated Circuit Dual-In-Line Packages - LM741CN";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartStatusId";"";"";
+"SUPPLIER";"Texas Instruments";"";
+"TraceParts.PartVersion";"1.2.3";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.ClassPath";"TEXAS_INSTRUMENTS:33-10012020-063309";"";
